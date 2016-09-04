@@ -1,0 +1,40 @@
+what is the question ? 
+
+question is something I do not care  about. 
+This is only for text purposes. 
+I hope that is fine. 
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+
+answer
+answer
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+
+abc
+def
+xyz
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+dadasdads
+gdffdfgdfgd
+gfdgdfgdf
+
+
+How might using version control make you more confident to make changes that could break something?
+
+xyz 
+dadadadas
+ytuto 
+utio 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+dadsadf
+hhgrfdf
+sfsdfs
